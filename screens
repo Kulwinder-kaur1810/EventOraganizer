@@ -1,0 +1,8 @@
+<script>start("/Users/kulwinderdhaliwal/Desktop/EventOrganizerApp/EventOrganizerApp/screens/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("CreateEventScreen.js","CreateEventScreen.js",0,2252,"2.2 kB",1744427010,"4/11/25, 11:03:30 PM");</script>
+<script>addRow("DashboardScreen.js","DashboardScreen.js",0,5642,"5.5 kB",1744426717,"4/11/25, 10:58:37 PM");</script>
+<script>addRow("EditEventScreen.js","EditEventScreen.js",0,3452,"3.4 kB",1744421400,"4/11/25, 9:30:00 PM");</script>
+<script>addRow("FavoritesScreen.js","FavoritesScreen.js",0,2287,"2.2 kB",1744427027,"4/11/25, 11:03:47 PM");</script>
+<script>addRow("SignInScreen.js","SignInScreen.js",0,2463,"2.4 kB",1744426889,"4/11/25, 11:01:29 PM");</script>
+<script>addRow("SignUpScreen.js","SignUpScreen.js",0,3825,"3.7 kB",1744427048,"4/11/25, 11:04:08 PM");</script>
