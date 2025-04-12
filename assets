@@ -1,0 +1,6 @@
+<script>start("/Users/kulwinderdhaliwal/Desktop/EventOrganizerApp/EventOrganizerApp/assets/");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("adaptive-icon.png","adaptive-icon.png",0,17547,"17.1 kB",499162500,"10/26/85, 4:15:00 AM");</script>
+<script>addRow("favicon.png","favicon.png",0,1466,"1.4 kB",499162500,"10/26/85, 4:15:00 AM");</script>
+<script>addRow("icon.png","icon.png",0,22380,"21.9 kB",499162500,"10/26/85, 4:15:00 AM");</script>
+<script>addRow("splash-icon.png","splash-icon.png",0,17547,"17.1 kB",499162500,"10/26/85, 4:15:00 AM");</script>
